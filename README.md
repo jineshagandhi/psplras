@@ -270,3 +270,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 © 2026 Jinesha Gandhi
+
+---
+
+## 🙏 ACKNOWLEDGMENTS
+
+- [FastAPI](https://fastapi.tiangolo.com/) — for the elegant Python web framework
+- [scikit-learn](https://scikit-learn.org/) — for the ML primitives powering the recommender
+- [Recharts](https://recharts.org/) — for the React chart components
+- [Shields.io](https://shields.io/) — for the README badges
