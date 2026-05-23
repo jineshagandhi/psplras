@@ -1,6 +1,13 @@
 # PSPLRAS — Complete Run Guide
 ## Personalized Student Performance and Learning Resource Analytics System
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white)
+
 A full-stack web application that ingests student marks and attendance, classifies academic performance, and recommends personalized learning resources based on weak subject areas. Built with **FastAPI + MongoDB** on the backend, **React** on the frontend, and an **ML recommender** powered by scikit-learn (K-Means clustering + cosine similarity).
 
 ---
