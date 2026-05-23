@@ -246,6 +246,18 @@ These power the `/recommendations/...` endpoints consumed by the Student dashboa
 
 ---
 
+## 🤝 CONTRIBUTING
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change. Make sure to update tests as appropriate.
+
+1. Fork the repo
+2. Create your feature branch (`git checkout -b feature/amazing-thing`)
+3. Commit your changes (`git commit -m "Add amazing thing"`)
+4. Push to the branch (`git push origin feature/amazing-thing`)
+5. Open a Pull Request
+
+---
+
 ## 📜 LICENSE
 
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
