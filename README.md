@@ -17,6 +17,42 @@ A full-stack web application that ingests student marks and attendance, classifi
 
 ---
 
+## 🖼️ SCREENSHOTS
+
+### Login
+
+Role-aware sign-in with demo accounts for Student, Faculty, and Admin.
+
+![Login page](screenshots/login.png)
+
+### 🎓 Student
+
+| Dashboard | Performance Report |
+|---|---|
+| ![Student Dashboard](screenshots/student-dashboard.png) | ![Student Report](screenshots/student-report.png) |
+| KPI summary, subject-wise bar chart, attendance overview, risk badges. | Per-subject grades (Distinction → At-Risk), averages, std-dev, and weak-subject flags. |
+
+**ML-driven learning resource recommendations**
+
+Resources are ranked by relevance to the student's weakest subjects using cosine similarity over their score profile.
+
+![Student Recommendations](screenshots/student-recommendations.png)
+
+### 👩‍🏫 Faculty
+
+| Dashboard | Class Analytics | Performance Heat Map |
+|---|---|---|
+| ![Faculty Dashboard](screenshots/faculty-dashboard.png) | ![Faculty Class Analytics](screenshots/faculty-class-analytics.png) | ![Faculty Heat Map](screenshots/faculty-heatmap.png) |
+| Subjects taught, total students, classes, and at-risk count at a glance. | Class-wise distribution, pass rate per subject, at-risk vs distinction split. | Color-coded student × subject grid for instant gap-spotting. |
+
+### 🛠️ Admin
+
+Manage students, faculty, classes, subject assignments, and learning resources.
+
+![Admin Panel](screenshots/admin-panel.png)
+
+---
+
 ## 📁 PROJECT STRUCTURE
 
 ```
